@@ -13,7 +13,7 @@
 ## IMPORTANT: Add your phone/WhatsApp number
 Search `91XXXXXXXXXX` in `index.html` and replace it with your real number.
 Example:
-- Call: `tel:+919876543210`
-- WhatsApp: `https://wa.me/919876543210`
+- Call: `tel:+9197653156`
+- WhatsApp: `https://wa.me/91976531517`
 
 The page intentionally has no top navigation menu and uses sticky Call + WhatsApp buttons.
